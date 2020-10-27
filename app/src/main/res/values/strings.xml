@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">AppSecond</string>
+    <string name="true_button">True</string>
+    <string name="button_True">确定</string>
+    <string name="button_False">取消</string>
+    <string name="PersonName">姓名</string>
+    <string name="Password">密码</string>
+    <string name="Accont">账户</string>
+    <string name="sign">登陆</string>
+    <string name="question_text">Sign in</string>
+    <string name="click_back_loogin">返回登录界面</string>
+    <string name="login_sucessful">登录成功</string>
+
+</resources>
